@@ -1,12 +1,12 @@
 ### Hi, I'm Parul Gupta 👋
 <p align="center">
 I am a learner and an explorer of new domains, challenges and opportunities.
-I love to talk about ALGORITHMS, DATA SCIENCE and MACHINE LEARNING.
+Talk to me about ALGORITHMS, DATA SCIENCE and MACHINE LEARNING.
 </p>
 
-🌱 Currently, I'm 2nd Year Masters student in University of Massachusetts, Amherst, working on fairness in machine learning using Seldonian frameworks under Prof. Phil Thomas.
+🌱 Currently, I'm 2nd Year Masters student in University of Massachusetts, Amherst, working extensively on fairness in machine learning using Seldonian frameworks under the guidance of <a href="https://people.cs.umass.edu/~pthomas/">Prof. Philip S Thomas</a>.
 
-🔭 Nominated for Global WomenTech Speaker of the Year 2020 for spreading awareness about 'The (Un)fair Machine Learning'. Vote for me by sharing through the <a href="https://www.womentech.net/nominee/Parul/Gupta/23931">webpage</a>.
+🔭 Nominated for Global WomenTech Speaker of the Year 2020 for spreading awareness about 'The (Un)fair Machine Learning'.
 
 😄 Pronouns: she/her/hers
 
@@ -15,10 +15,10 @@ I love to talk about ALGORITHMS, DATA SCIENCE and MACHINE LEARNING.
 
 <p align="center">
 <a href="https://github.com/parul100495/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parul100495&show_icons=true&include_all_commits=true&count_private=true" alt="Parul's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parul100495&show_icons=true&include_all_commits=true" alt="Parul's github stats" />
 </a>
 <a href="https://github.com/parul100495/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul100495&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul100495&layout=compact" />
 </a>
 </p>
 
