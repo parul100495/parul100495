@@ -22,9 +22,9 @@ Talk to me about ALGORITHMS, DATA SCIENCE and MACHINE LEARNING.
 </a>
 </p>
 
-Reach me via 📫 parul100495@gmail.com and/or follow me on <a href="https://twitter.com/anuraghazru">
+Reach me via 📫 parul100495@gmail.com and/or follow me on <a href="https://twitter.com/parul100495">
   <img alt="Parul Gupta | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a> @parul100495 
+ @parul100495 </a>
 
 <!--
 Here are some ideas to get you started:
