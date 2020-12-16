@@ -4,9 +4,13 @@ I am a learner and an explorer of new domains, challenges and opportunities.
 Talk to me about ALGORITHMS, DATA SCIENCE and MACHINE LEARNING.
 </p>
 
-🌱 Currently, I'm 2nd Year Masters student in University of Massachusetts, Amherst, working extensively on fairness in machine learning using Seldonian frameworks under the guidance of <a href="https://people.cs.umass.edu/~pthomas/">Prof. Philip S Thomas</a>.
+🌱🌱 Graduated from University of Massachusetts, Amherst as Masters of Science in Computer Science. I worked extensively on <a href="https://parul100495.github.io/fair-seldonian/">Fair-Seldonian</a> - fairness in machine learning using Seldonian frameworks under the guidance of <a href="https://people.cs.umass.edu/~pthomas/">Prof. Philip S Thomas</a>.
 
-🔭 Nominated for Global WomenTech Speaker of the Year 2020 for spreading awareness about 'The (Un)fair Machine Learning'.
+🌱 Undergrad in Computer Science and Engineering from IIT Indore, India.
+
+🔭 Nominated/Runner Up for Global WomenTech Speaker of the Year 2020 for spreading awareness about 'The (Un)fair Machine Learning'.
+
+👯 Communication Lead, <a href="https://groups.cs.umass.edu/voicesofds/">Voices of Data Science, UMass Amherst</a>.
 
 😄 Pronouns: she/her/hers
 
