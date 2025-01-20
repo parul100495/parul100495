@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/parulgupta1004/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parul100495&show_icons=true&include_all_commits=true" alt="Parul's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parulgupta1004&show_icons=true&include_all_commits=true" alt="Parul's github stats" />
 </a>
 <a href="https://github.com/parulgupta1004/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parulgupta1004&layout=compact" />
